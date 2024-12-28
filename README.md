@@ -35,15 +35,15 @@ Follow these instructions to set up and run the project locally.
 
 1.  **Clone the repository**:
 
-        `git clone https://github.com/bellapukondaveerendra/openai-session-api
+        git clone https://github.com/bellapukondaveerendra/openai-session-api
 
-    cd openai-session-api`
+    cd openai-session-api
 
 2.  **Create and activate a virtual environment**:
 
-        `python -m venv venv
+        python -m venv venv
 
-    source venv/bin/activate # On Windows: venv\Scripts\activate`
+    source venv/bin/activate # On Windows: venv\Scripts\activate
 
 3.  **Install dependencies**:
 
